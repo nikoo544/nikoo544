@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nico
-- 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning Python
 
 <!---
